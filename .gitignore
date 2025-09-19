@@ -1,0 +1,14 @@
+# Python 시스템 파일
+__pycache__/
+*.pyc
+
+# 데이터 파일 (용량이 크므로 제외)
+*.wav
+*.mp4
+
+# 학습된 모델 파일 (코드를 공유하는 것이 목적일 경우 제외)
+*.pkl
+*.ivector
+
+# macOS 시스템 파일
+.DS_Store
